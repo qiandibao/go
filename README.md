@@ -1,6 +1,6 @@
  # 圍棋基礎
 
- ## 棋子的氣 <details> 
+ ## 棋子的氣       <details> 
  
  <summary>     </summary>  
  
