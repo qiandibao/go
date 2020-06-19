@@ -9,10 +9,10 @@
 
  </details>
 
- ## 吃棋子技巧
-
  <details>
  <summary>     </summary>
+
+ ## 吃棋子技巧
 
  >   ###### 禁着點  
 
