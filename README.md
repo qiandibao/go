@@ -4,7 +4,7 @@
  
  <details> 
  
- <summary>     </summary>  
+ <summary>  棋子的氣    </summary>  
  
  -   ######  直線相鄰的交叉點就是氣 
 
