@@ -13,7 +13,7 @@
  ## 吃棋子技巧
 
  <details>
- <summary>     </summary>
+ <summary> 吃棋子技巧    </summary>
 
  >   ###### 禁着點  
 
@@ -26,7 +26,7 @@
  ## 死棋與活棋
 
  <details>
- <summary>     </summary>
+ <summary>  死棋與活棋   </summary>
 
  -  ######  兩個禁着點活棋 
 
@@ -37,7 +37,7 @@
  ## 死亡線與棋子方向
  
  <details>
- <summary>     </summary>
+ <summary>   死亡線與棋子方向  </summary>
 
  -  ######  靠近死亡線氣會減弱
 
@@ -48,7 +48,7 @@
  ## 分塊與斷點
  
  <details>
- <summary>     </summary>
+ <summary>   分塊與斷點  </summary>
 
  -  ###### 分塊便於看清斷點和棋子氣的多少
 
@@ -59,7 +59,7 @@
  ## 雙打吃
  
  <details>
- <summary>     </summary>
+ <summary>  雙打吃   </summary>
 
  -  ###### 下在對方兩塊兩口氣的斷點上面 讓對方無法兼顧 只能跑掉一塊棋
  
