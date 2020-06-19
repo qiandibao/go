@@ -1,6 +1,11 @@
  # 圍棋基礎
 
- ## 棋子的氣    <details>   <summary>     </summary>  -   ######  直線相鄰的交叉點就是氣 
+ ## 棋子的氣
+ <details> 
+ 
+ <summary>     </summary>  
+ 
+ -   ######  直線相鄰的交叉點就是氣 
 
  </details>
 
