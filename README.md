@@ -22,11 +22,16 @@
 
  </details>
 
+ <details>
+ <summary>     </summary>
+ 
  ## 死棋與活棋 
 
  -  ######  兩個禁着點活棋 
 
  -  ######  一個禁着點死棋
+ 
+ </details>
 
  ## 死亡線與棋子方向
 
