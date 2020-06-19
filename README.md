@@ -3,9 +3,6 @@
  <details>
  <summary>     </summary>
 
-</details>
-
-
 ## 棋子的氣
 
 -   ######  直線相鄰的交叉點就是氣 
