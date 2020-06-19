@@ -23,10 +23,10 @@
 
  </details>
 
+ ## 死棋與活棋
+
  <details>
  <summary>     </summary>
- 
- ## 死棋與活棋 
 
  -  ######  兩個禁着點活棋 
 
