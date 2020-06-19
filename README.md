@@ -3,9 +3,8 @@
  <details>
  <summary>     </summary>
 
- <details>
+</details>
 
- <details>
 
 ## 棋子的氣
 
