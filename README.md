@@ -152,6 +152,16 @@
   
  </details>
  
+   ## 棋子的控制點
+
+<details>
+ 
+ <summary> 棋子的控制點  </summary>
+ 
+ -  ######  用少量的棋子圍比較多的控制點
+ 
+ </details>
+ 
  
  
  
